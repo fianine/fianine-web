@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fianine-web/precache-manifest.34897ee9a3c84be5de8112ba7286dfd3.js"
+  "/fianine-web/precache-manifest.bfbe878a4526a019ea8f242fc79899d1.js"
 );
 
 workbox.clientsClaim();
